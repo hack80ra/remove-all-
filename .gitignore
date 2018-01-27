@@ -1,6 +1,8 @@
 # Prerequisites
 *.d
-
+<generate> <clear>
+<.Python>
+.#delete
 # Compiled Object files
 *.slo
 *.lo
